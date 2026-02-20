@@ -1,4 +1,4 @@
 pyTelegramBotAPI
-rembg
+rembg[cpu]
 pillow
 flask
